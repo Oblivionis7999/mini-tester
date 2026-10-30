@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+
+# 环境与密钥
+.env
+.env.*
+*.key
+venv/
+.venv/
+
+# 输出
+results/*.tmp
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
